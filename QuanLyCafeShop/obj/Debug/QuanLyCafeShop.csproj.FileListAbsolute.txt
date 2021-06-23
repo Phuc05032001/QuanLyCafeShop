@@ -1,0 +1,14 @@
+C:\Users\Phuc0\OneDrive\Máy tính\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCafeShop.exe.config
+C:\Users\Phuc0\OneDrive\Máy tính\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCafeShop.exe
+C:\Users\Phuc0\OneDrive\Máy tính\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCafeShop.pdb
+C:\Users\Phuc0\OneDrive\Máy tính\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCafeShop.csprojAssemblyReference.cache
+C:\Users\Phuc0\OneDrive\Máy tính\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCafeShop.csproj.CoreCompileInputs.cache
+C:\Users\Phuc0\OneDrive\Máy tính\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCafeShop.exe
+C:\Users\Phuc0\OneDrive\Máy tính\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCafeShop.pdb
+C:\Users\Phuc0\OneDrive\Máy tính\QuanLyCafeShop\QuanLyCafeShop\bin\Debug\QuanLyCafeShop.exe.config
+C:\Users\Phuc0\OneDrive\Máy tính\QuanLyCafeShop\QuanLyCafeShop\bin\Debug\QuanLyCafeShop.exe
+C:\Users\Phuc0\OneDrive\Máy tính\QuanLyCafeShop\QuanLyCafeShop\bin\Debug\QuanLyCafeShop.pdb
+C:\Users\Phuc0\OneDrive\Máy tính\QuanLyCafeShop\QuanLyCafeShop\obj\Debug\QuanLyCafeShop.csproj.AssemblyReference.cache
+C:\Users\Phuc0\OneDrive\Máy tính\QuanLyCafeShop\QuanLyCafeShop\obj\Debug\QuanLyCafeShop.csproj.CoreCompileInputs.cache
+C:\Users\Phuc0\OneDrive\Máy tính\QuanLyCafeShop\QuanLyCafeShop\obj\Debug\QuanLyCafeShop.exe
+C:\Users\Phuc0\OneDrive\Máy tính\QuanLyCafeShop\QuanLyCafeShop\obj\Debug\QuanLyCafeShop.pdb

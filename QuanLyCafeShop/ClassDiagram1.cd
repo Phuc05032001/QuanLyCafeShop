@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Alphabetical">
+  <Class Name="QuanLyCafeShop.SanPham">
+    <Position X="9.25" Y="9.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IBAEEAIAIAEAAACAAAAABAAAAAAAAAAAAAQAAApAAAA=</HashCode>
+      <FileName>SanPham.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="MaSP" />
+      <Field Name="TenSP" />
+      <Field Name="ThuongHieu" />
+      <Field Name="TrangThai" />
+      <Field Name="SoLuong" />
+      <Field Name="GiaBan" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="QuanLyCafeShop.DSSanPham">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAIEAUBAAAEhgFAAAAAAAAEAAgCAAAEASJAAAAC0=</HashCode>
+      <FileName>SanPham.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="ds" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="QuanLyCafeShop.TimKiem">
+    <Position X="19.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAQAAAAAAACABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyCafeShop.MenuQL">
+    <Position X="19.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyCafeShop.Program">
+    <Position X="19.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyCafeShop.PhieuNhap">
+    <Position X="0.5" Y="10.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAGAEAAIEABICAAAQAAAgAAAAAAAAAAIEAAAgAAAw=</HashCode>
+      <FileName>PhieuNhap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyCafeShop.ChiTietPN">
+    <Position X="1" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAUAAQAAAAAAAAAAAIgAAAAAAMABIAoAAAQ=</HashCode>
+      <FileName>PhieuNhap.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="MaPN" />
+      <Field Name="MaSP" />
+      <Field Name="SoLuong" />
+      <Field Name="GiaNhap" />
+      <Field Name="TongGia" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="QuanLyCafeShop.DSPhieuNhap">
+    <Position X="3" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQQAAAAEAAAAECgAAAAACCAAAAIgAAAIgAChAAAAEA=</HashCode>
+      <FileName>PhieuNhap.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="ds" />
+      <Field Name="dss" />
+      <Field Name="pn" />
+      <Field Name="ct" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="QuanLyCafeShop.HoaDon">
+    <Position X="15.75" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQAAEAABCAAAgACAAAAAAAAAAAAQAAAgECAgAAAAAEA=</HashCode>
+      <FileName>HoaDon.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="MaHD" />
+      <Field Name="TenKH" />
+      <Field Name="NgayBan" />
+      <Field Name="Tongsl" />
+      <Field Name="Tong" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="QuanLyCafeShop.CTHoaDon">
+    <Position X="29" Y="5.75" Width="2.25" />
+    <AssociationLine Name="SoLuong" Type="System.Int32" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="31.25" Y="7.095" />
+        <Point X="31.625" Y="7.095" />
+        <Point X="31.625" Y="1.562" />
+        <Point X="21.88" Y="1.562" Type="JumpStart" />
+        <Point X="21.714" Y="1.562" Type="JumpEnd" />
+        <Point X="21.25" Y="1.562" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>ARACAAAAAAUAAAAAAAAAAAAAAIQAAAAgAEAgAAoAAAA=</HashCode>
+      <FileName>HoaDon.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="a" />
+      <Field Name="MaHD" />
+      <Field Name="MaSP" />
+      <Field Name="SoLuong" />
+      <Field Name="TGia" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="QuanLyCafeShop.DSHoaDon">
+    <Position X="15.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAEAAAAECgAACABACAAAAJgAAIIgAChAAABAA=</HashCode>
+      <FileName>HoaDon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyCafeShop.DoanhThu">
+    <Position X="24" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAgAAAAAAAAAAIAAAAAAAACAAA=</HashCode>
+      <FileName>DoanhThu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.String" Collapsed="true">
+    <Position X="20.5" Y="11" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Collections.Generic.List&lt;T&gt;" Collapsed="true">
+    <Position X="7" Y="12.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Struct Name="System.Int32" Collapsed="true">
+    <Position X="19.75" Y="1" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Struct>
+  <Struct Name="System.Single" Collapsed="true">
+    <Position X="7.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Struct>
+  <Struct Name="System.DateTime" Collapsed="true">
+    <Position X="12.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

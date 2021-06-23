@@ -1,0 +1,21 @@
+D:\Hoc tap\Đồ Án 1\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe.config
+D:\Hoc tap\Đồ Án 1\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe
+D:\Hoc tap\Đồ Án 1\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.pdb
+D:\Hoc tap\Đồ Án 1\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csprojAssemblyReference.cache
+D:\Hoc tap\Đồ Án 1\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.CoreCompileInputs.cache
+D:\Hoc tap\Đồ Án 1\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe
+D:\Hoc tap\Đồ Án 1\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.pdb
+D:\Hoc tap\Năm 2\Kỳ 1\Đồ án 1 _ XD ứng dụng trên C#\Đồ Án 1\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe.config
+D:\Hoc tap\Năm 2\Kỳ 1\Đồ án 1 _ XD ứng dụng trên C#\Đồ Án 1\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe
+D:\Hoc tap\Năm 2\Kỳ 1\Đồ án 1 _ XD ứng dụng trên C#\Đồ Án 1\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.pdb
+D:\Hoc tap\Năm 2\Kỳ 1\Đồ án 1 _ XD ứng dụng trên C#\Đồ Án 1\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csprojAssemblyReference.cache
+D:\Hoc tap\Năm 2\Kỳ 1\Đồ án 1 _ XD ứng dụng trên C#\Đồ Án 1\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.CoreCompileInputs.cache
+D:\Hoc tap\Năm 2\Kỳ 1\Đồ án 1 _ XD ứng dụng trên C#\Đồ Án 1\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe
+D:\Hoc tap\Năm 2\Kỳ 1\Đồ án 1 _ XD ứng dụng trên C#\Đồ Án 1\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.pdb
+C:\Users\Phuc0\OneDrive\Máy tính\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe.config
+C:\Users\Phuc0\OneDrive\Máy tính\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe
+C:\Users\Phuc0\OneDrive\Máy tính\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.pdb
+C:\Users\Phuc0\OneDrive\Máy tính\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csprojAssemblyReference.cache
+C:\Users\Phuc0\OneDrive\Máy tính\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.CoreCompileInputs.cache
+C:\Users\Phuc0\OneDrive\Máy tính\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe
+C:\Users\Phuc0\OneDrive\Máy tính\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.pdb
